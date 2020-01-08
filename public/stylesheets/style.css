@@ -1,0 +1,41 @@
+body {
+  padding: 50px;
+  font: 12px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #cccccc;
+}
+
+h1{
+  
+  font-family: 'Noto Serif', serif;
+  font-size:50px;
+  background-color: #cccccc;
+  color: black;
+}
+
+th{
+   font-family: 'Noto Serif', serif;
+   font-size:25px;
+   background-color: #cccccc;
+   color: black;
+
+}
+td{
+   font-family: 'Noto Serif', serif;
+   font-size:25px;
+   background-color: #cccccc;
+   color: black;
+
+}
+
+h2{
+  
+  font-family: 'Gelasio', serif;
+  font: large;
+  background-color: #cccccc;
+  color: black;
+}
+
+
+a {
+  color: #00B7FF;
+}
